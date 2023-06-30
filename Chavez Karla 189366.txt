@@ -1,0 +1,13 @@
+Chavez Karla 18936/6
+
+Realice varias clases en Aseguradora.Aplicacion de cada tipo que se especificaba en el trabajo(persona,poliza,siniestro,tercero,titular,vehiculo)la clase persona es estatica y padre de tercero y titular ya que compartian varias variables de instancia .
+
+luego cree las interfaces(IRepositorioTitular,IRepositorioVehiculo,IRepositorioPoliza) entre los agregar,eliminar,modificar y borrar y el repositoriotxt (RepositorioPolizaTXT,RepositorioTitularTXT)
+
+tambien cree una clase abstracta de Buscar que se puede mejorar con metodos genericos pero por el momento me ayuda a realizar la busqueda de algo en especifico en  una lista y me da como resultado si existe o no e dato  y  la posicion de donde se encuentra
+
+Cree los repositorios txt que modifican, leen , escriben y borran de un archivo txt .
+Solo pude realizar la implementacion adecuada de el repositorioTitular.txt los demas estan mas o menos estructurados peor faltaria el enlace de poliza con el vehiculo asegurado y de vehiculo con titular .
+
+Por ultimo el programa principal es una copia de lo que hay en el pdf que nos dieron y sirve para comprobar las funcionalidades de forma correcta del resitorioTitular.txt
+

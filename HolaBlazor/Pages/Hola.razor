@@ -1,0 +1,62 @@
+@* @page "/hola"
+
+<h1>Hola @nombre.ToUpper()</h1>
+<p>El doble de 5 es @(5 * 2) y la Sumatoria
+de 1 a 10 es @Sumatoria(10) </p>
+
+@code {
+string nombre = "Juan";
+int Sumatoria(int n) =>
+Enumerable.Range(1, n).Sum();
+} *@
+
+@* @page "/hola"
+<button @onclick="Cambiar">Mostrar / Ocultar</button>
+@if (EsVisible)
+{
+<h1>Hola @nombre.ToUpper()</h1>
+}
+@code {
+string nombre = "Juan";
+bool EsVisible = true;
+void Cambiar() {
+EsVisible = !EsVisible;
+}
+} *@
+
+@page "/hola"
+
+
+<h1>Listado de personas</h1>
+<ul>
+    @foreach (var p in lista)
+    {
+        <li>@p.Apellido, @p.Nombre (@p.Edad)</li>
+    }
+</ul>
+@if (!SoloLectura)
+{
+    <input @ref="input_01" placeholder="Nombre" @bind="p.Nombre" />
+
+    <br>
+    <input placeholder="Apellido" @bind="p.Apellido" />
+
+    <br>
+    <input type="number" placeholder="Edad" @bind="p.Edad" />
+
+    <br>
+    <button @onclick="Agregar">Agregar</button>
+}
+@code {
+    [Parameter]
+    public bool SoloLectura { get; set; } = false;
+    List<Persona> lista = Persona.GetLista();
+    ElementReference input_01;
+    Persona p = new Persona();
+    void Agregar()
+    {
+        lista.Add(p);
+        p = new Persona();
+        input_01.FocusAsync();
+    }
+}

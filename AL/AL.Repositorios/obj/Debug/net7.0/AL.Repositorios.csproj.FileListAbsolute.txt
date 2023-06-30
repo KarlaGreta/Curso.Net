@@ -1,0 +1,15 @@
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\bin\Debug\net7.0\AL.Repositorios.deps.json
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\bin\Debug\net7.0\AL.Repositorios.dll
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\bin\Debug\net7.0\AL.Repositorios.pdb
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\bin\Debug\net7.0\AL.Aplicacion.dll
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\bin\Debug\net7.0\AL.Aplicacion.pdb
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.csproj.AssemblyReference.cache
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.AssemblyInfoInputs.cache
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.AssemblyInfo.cs
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.csproj.CopyComplete
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.dll
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\refint\AL.Repositorios.dll
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\AL.Repositorios.pdb
+C:\Users\Coraje\proyectoDotnet\AL\AL.Repositorios\obj\Debug\net7.0\ref\AL.Repositorios.dll

@@ -1,0 +1,15 @@
+C:\Users\Coraje\proyectoDotnet\teoria9\bin\Debug\net7.0\teoria9.exe
+C:\Users\Coraje\proyectoDotnet\teoria9\bin\Debug\net7.0\teoria9.deps.json
+C:\Users\Coraje\proyectoDotnet\teoria9\bin\Debug\net7.0\teoria9.runtimeconfig.json
+C:\Users\Coraje\proyectoDotnet\teoria9\bin\Debug\net7.0\teoria9.dll
+C:\Users\Coraje\proyectoDotnet\teoria9\bin\Debug\net7.0\teoria9.pdb
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.csproj.AssemblyReference.cache
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.AssemblyInfoInputs.cache
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.AssemblyInfo.cs
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.csproj.CoreCompileInputs.cache
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.dll
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\refint\teoria9.dll
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.pdb
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\teoria9.genruntimeconfig.cache
+C:\Users\Coraje\proyectoDotnet\teoria9\obj\Debug\net7.0\ref\teoria9.dll

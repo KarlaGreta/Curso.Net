@@ -1,0 +1,15 @@
+C:\Users\Coraje\proyectoDotnet\Teoria13\bin\Debug\net7.0\Teoria13.exe
+C:\Users\Coraje\proyectoDotnet\Teoria13\bin\Debug\net7.0\Teoria13.deps.json
+C:\Users\Coraje\proyectoDotnet\Teoria13\bin\Debug\net7.0\Teoria13.runtimeconfig.json
+C:\Users\Coraje\proyectoDotnet\Teoria13\bin\Debug\net7.0\Teoria13.dll
+C:\Users\Coraje\proyectoDotnet\Teoria13\bin\Debug\net7.0\Teoria13.pdb
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.csproj.AssemblyReference.cache
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.AssemblyInfoInputs.cache
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.AssemblyInfo.cs
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.csproj.CoreCompileInputs.cache
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.dll
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\refint\Teoria13.dll
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.pdb
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\Teoria13.genruntimeconfig.cache
+C:\Users\Coraje\proyectoDotnet\Teoria13\obj\Debug\net7.0\ref\Teoria13.dll

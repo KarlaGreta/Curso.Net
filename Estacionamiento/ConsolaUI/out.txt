@@ -1,0 +1,3 @@
+juan perez,12,2152
+cesar jos,51,6584
+karla chavez,1,654484

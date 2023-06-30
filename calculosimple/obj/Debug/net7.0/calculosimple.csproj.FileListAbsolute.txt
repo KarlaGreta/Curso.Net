@@ -1,0 +1,15 @@
+C:\Users\Coraje\proyectoDotnet\calculosimple\bin\Debug\net7.0\calculosimple.exe
+C:\Users\Coraje\proyectoDotnet\calculosimple\bin\Debug\net7.0\calculosimple.deps.json
+C:\Users\Coraje\proyectoDotnet\calculosimple\bin\Debug\net7.0\calculosimple.runtimeconfig.json
+C:\Users\Coraje\proyectoDotnet\calculosimple\bin\Debug\net7.0\calculosimple.dll
+C:\Users\Coraje\proyectoDotnet\calculosimple\bin\Debug\net7.0\calculosimple.pdb
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.csproj.AssemblyReference.cache
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.AssemblyInfoInputs.cache
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.AssemblyInfo.cs
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.csproj.CoreCompileInputs.cache
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.dll
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\refint\calculosimple.dll
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.pdb
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\calculosimple.genruntimeconfig.cache
+C:\Users\Coraje\proyectoDotnet\calculosimple\obj\Debug\net7.0\ref\calculosimple.dll
